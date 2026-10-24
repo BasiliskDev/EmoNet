@@ -1,0 +1,1 @@
+CREMA_D/ and RAVDESS/ hold a random 5% sample (seed 42) of the processed data. The same clips were kept in every modality folder, so audio, video and labels line up. Full datasets: RAVDESS https://zenodo.org/records/1188976 (CC BY-NC-SA 4.0), CREMA-D https://github.com/CheyneyComputerScience/CREMA-D (ODbL).
